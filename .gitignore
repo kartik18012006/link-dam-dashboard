@@ -22,3 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Next.js (if any leftover files)
+.next
+out
+
+# Vite
+.vite
